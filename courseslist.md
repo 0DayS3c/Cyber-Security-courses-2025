@@ -23,3 +23,6 @@
 <p><a href="https://alison.com">Alison</a> provides you free courses including cyber security.</p>
 
 <p><a href="https://www.youtube.com/c/Freecodecamp">freecodecamp</a> provide you free learning resources through YouTube. (Highly recommended).</p>
+
+<p>This is the list of courses that i upload in today (23June 2025). I will update this when i found new courses. Stay with me. Happy journy!</p>
+<p>© Piyusha Akash</p>
